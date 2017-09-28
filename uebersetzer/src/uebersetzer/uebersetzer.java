@@ -5,7 +5,7 @@ public class uebersetzer {
 
 	public static void main(String[] args) {
 		
-		int n=50; 		//**Diese Zahl wird konvertiert*//
+		int n=1000; 		//**Diese Zahl wird konvertiert - !Zahl darf höchstens 1000 betragen!*//
 		int y=0;
 		
 		for(int z=40; z>=0; z=z-1) {
